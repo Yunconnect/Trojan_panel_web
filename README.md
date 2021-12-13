@@ -1,9 +1,3 @@
-# 一键更改 Trojan-Panel 面板端口并设置伪装站点
-
-
-![image](https://github.com/V2RaySSR/Trojan_panel_web/raw/master/image.png)
-
-
  # 脚本介绍
  
   Trojan多用户管理部署程序的基本功能
