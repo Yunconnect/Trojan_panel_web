@@ -6,7 +6,7 @@
 
  # 脚本介绍
  
- 下面这些功能是 Jrohy大神 Trojan多用户管理部署程序的基本功能
+  Trojan多用户管理部署程序的基本功能
   - 在线web页面和命令行两种方式管理trojan多用户
   - 启动 / 停止 / 重启 trojan 服务端
   - 支持流量统计和流量限制
@@ -22,11 +22,5 @@
  
 
 ```bash
-wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojan_panel_web/master/trojan-web-panel.sh" && chmod +x trojan-web-panel.sh && ./trojan-web-panel.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/Yunconnect/Trojan_panel_web/master/trojan-web-panel.sh" && chmod +x trojan-web-panel.sh && ./trojan-web-panel.sh
 ```
-
- # 相关文章及视频
-
-Trojan搭建多用户面板并设置伪装站点：https://www.v2rayssr.com/trojanpanel.html
-
-脚本交流电报群：https://t.me/bozaiweb
